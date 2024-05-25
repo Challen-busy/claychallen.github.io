@@ -1,13 +1,13 @@
-- [ESSAY 总览](/path/to/essay/README.md)
-- learn (待迁移)
-- essay (待迁移)
-- Archive
-    - DDA3020 机器学习
-        - [DDA笔记](/path/to/essay/Archive/CSC3020机器学习/DDA3020.md)
-        - [DDA题解](/path/to/essay/Archive/CSC3020机器学习/DDA3020作业讲解.md)
-        - [练习](/path/to/essay/Archive/CSC3020机器学习/practice.pdf)
-    - 微观经济学
-        - [微观经济学部分笔记](/path/to/essay/Archive/ECO2011微观经济学/ECO2011.md)
+
+# learn (待迁移)
+# essay (待迁移)
+# Archive
+- DDA3020 机器学习
+  - [DDA笔记](/path/to/essay/Archive/CSC3020机器学习/DDA3020.md)
+  - [DDA题解](/path/to/essay/Archive/CSC3020机器学习/DDA3020作业讲解.md)
+  - [练习](/path/to/essay/Archive/CSC3020机器学习/practice.pdf)
+- ECO2011 微观经济学
+  - [微观经济学部分笔记](/path/to/essay/Archive/ECO2011微观经济学/ECO2011.md)
 
 
 
